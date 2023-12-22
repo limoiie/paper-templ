@@ -1,0 +1,27 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.ionide/
+.idea/
+out/
+auto/
+
+*.png
+*.svg
+*.cut
+*.aux
+*.bbl
+*.blg
+*.bk
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.tdo
+*.xcp
+
+# for Auctex
+.pdf-view-restore
+
+.DS_Store
